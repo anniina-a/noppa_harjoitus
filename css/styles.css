@@ -1,0 +1,12 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 50px;
+    font-size: 1.2em;
+    background-color: gainsboro;
+}
+#dice {
+    cursor: pointer;
+    margin-top: 1.5em;
+    width: 25%;
+}
